@@ -1,0 +1,103 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]eploy/
+[Dd]ist/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x64/
+[Dd]ebug-x86/
+[Dd]ist/
+
+# Output of the build
+bin/
+obj/
+out/
+
+# ASP.NET temporary files
+app_data/
+aspnet-client/
+web.config
+
+# Tye (for local development with containers)
+.tye/
+
+# Microsoft Azure WebJobs SDK files
+appsettings.json
+appsettings.Development.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Node.js modules (if used)
+node_modules/
+
+# Npm package lock file (if used)
+package-lock.json
+yarn.lock
+
+# Coverage files (from testing frameworks)
+coverage/
+*.lcov
+
+# JetBrains Rider and ReSharper files
+.idea/
+.reSharper/
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Ignore the .NET Core configuration file for SDK-based projects
+global.json
+
+# Ignore project build output folders
+*.dbmdl
+*.bak
+*.log
+
+# NPM build artifacts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# User-specific files for Visual Studio Code
+.vscode/*
+
+# Ignore binaries and temp files from build tools
+*.vsix
+*.vscode
+
+# Local development tools
+Dockerfile
+docker-compose.yml
+.docker/
+
+# Exclude settings or credentials
+secret.json
+*secrets*
+
+# Exclude npm and yarn dependency caches
+npm/
+yarn/
+
+# Include if you are using Entity Framework Migrations
+Migrations/
+
+# Other common IDEs
+.vscode/
+
+# OS generated files
+Thumbs.db
+.DS_Store
