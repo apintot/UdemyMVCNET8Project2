@@ -15,7 +15,7 @@ namespace BlogCore.DataAccess.Data.Repository
         public ContainerWork(ApplicationDbContext db)
         {
             _db = db;
-            CategoryRepository = new CategoryReposiory(_db);
+            CategoryRepository = new CategoryRepository(_db);
         }
 
         public ICategoryRepository CategoryRepository { get; private set; }

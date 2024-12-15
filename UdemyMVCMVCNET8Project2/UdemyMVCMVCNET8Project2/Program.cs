@@ -1,3 +1,5 @@
+using BlogCore.DataAccess.Data.Repository;
+using BlogCore.DataAccess.Data.Repository.IRepository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using UdemyMVCMVCNET8Project2.Data;
@@ -14,6 +16,9 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddControllersWithViews();
+
+//Add working container 
+builder.Services.AddScoped<IContainerWork, ContainerWork>();
 
 var app = builder.Build();
 

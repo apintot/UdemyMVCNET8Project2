@@ -9,11 +9,11 @@ using UdemyMVCMVCNET8Project2.Data;
 
 namespace BlogCore.DataAccess.Data.Repository
 {
-    public class CategoryReposiory : Repository<Category>, ICategoryRepository
+    public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
         private readonly ApplicationDbContext _db;
 
-        public CategoryReposiory(ApplicationDbContext db) : base(db)
+        public CategoryRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
         }
