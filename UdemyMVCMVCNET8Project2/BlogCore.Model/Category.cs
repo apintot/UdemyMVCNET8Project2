@@ -17,6 +17,7 @@ namespace BlogCore.Model
         public string Name { get; set; }
 
         [Display(Name = "Visualization order")]
+        [Range(1,10, ErrorMessage = "Value need to be between 1 to 10")]
         public int? Order { get; set; }
     }
 }

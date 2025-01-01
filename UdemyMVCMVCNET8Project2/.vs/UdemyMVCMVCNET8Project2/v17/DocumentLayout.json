@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4462FD62-4543-4334-B608-CEF09F07D2F9}|UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2.csproj|c:\\users\\alber\\source\\repos\\udemymvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4462FD62-4543-4334-B608-CEF09F07D2F9}|UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2.csproj|solutionrelative:udemymvcmvcnet8project2\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462FD62-4543-4334-B608-CEF09F07D2F9}|UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2.csproj|c:\\users\\alber\\source\\repos\\udemymvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4462FD62-4543-4334-B608-CEF09F07D2F9}|UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2.csproj|solutionrelative:udemymvcmvcnet8project2\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462FD62-4543-4334-B608-CEF09F07D2F9}|UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2.csproj|c:\\users\\alber\\source\\repos\\udemymvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462FD62-4543-4334-B608-CEF09F07D2F9}|UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2.csproj|solutionrelative:udemymvcmvcnet8project2\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390EAD8-0FF3-488D-8C0A-2BA02A95CE8E}|BlogCore.Model\\BlogCore.Model.csproj|c:\\users\\alber\\source\\repos\\udemymvcnet8project2\\udemymvcmvcnet8project2\\udemymvcmvcnet8project2\\blogcore.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390EAD8-0FF3-488D-8C0A-2BA02A95CE8E}|BlogCore.Model\\BlogCore.Model.csproj|solutionrelative:blogcore.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T18:57:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "UdemyMVCMVCNET8Project2\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T18:25:13.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "UdemyMVCMVCNET8Project2\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "UdemyMVCMVCNET8Project2\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:24:39.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\BlogCore.Model\\Category.cs",
+              "RelativeDocumentMoniker": "BlogCore.Model\\Category.cs",
+              "ToolTip": "C:\\Users\\alber\\source\\repos\\UdemyMVCNET8Project2\\UdemyMVCMVCNET8Project2\\UdemyMVCMVCNET8Project2\\BlogCore.Model\\Category.cs",
+              "RelativeToolTip": "BlogCore.Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:19:41.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
